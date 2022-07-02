@@ -1,5 +1,5 @@
 # Let's Encrypt Certbot Manager
-Service for processing "let's encrypt" certbot for all domains (with cron option)
+Service for processing "let's encrypt" certbot for custom domains (with cron option)
 
 - Fill your domains in ```domains.list``` (you can also save different files with domains and initialize it in ```variables.conf```)
 - Check all configuration parameters in "variables.conf"
