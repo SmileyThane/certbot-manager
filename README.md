@@ -9,3 +9,4 @@ Service for processing "let's encrypt" certbot for all domains (with cron option
     - to run manager once use ```run.sh```
     - to set manager in cron use ```cron.sh```
     - to remove manager from cron use ```remove_cron.sh```
+- Check log information in ```logs/``` folder 
