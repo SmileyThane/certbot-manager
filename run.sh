@@ -3,7 +3,7 @@
 source variables.conf
 
 if hash certbot 2>/dev/null; then
-    echo certbot --version
+    certbot --version
 else
    ./install_certbot.sh
 fi

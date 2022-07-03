@@ -3,5 +3,5 @@
 source variables.conf
 sudo add-apt-repository ppa:certbot/certbot -y
 sudo apt-get install certbot python-certbot-$server_app -y
-echo certbot --version
+certbot --version
 
